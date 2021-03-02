@@ -1,1 +1,1 @@
-# MEAN-Project
+# MERN-Project
